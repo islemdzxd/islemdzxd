@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=0F172A&center=true&vCenter=true&width=950&lines=Engineering+Intelligent+Systems;AI+%7C+Frontend+%7C+IoT;Designing+Clean+Scalable+Architectures;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=2563EB&center=true&vCenter=true&width=950&lines=Software+Engineering+Student;AI+%26+Intelligent+Systems+Engineer;Frontend+Architect+in+Progress;Building+the+Future+One+System+at+a+Time" />
 </p>
+
 
 
 # 👋 Hey I'm Islem | Software Engineering Student
