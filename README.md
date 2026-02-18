@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;AI+%26+IoT+Enthusiast;Frontend+Architect+In+Progress;Building+Systems+That+Actually+Matter;Villain+Arc+%3A+Activated+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&lines=I+Don't+Just+Code...;I+Engineer+Intelligent+Systems;AI+%7C+Frontend+%7C+IoT;Future+Software+Engineer;Watch+The+Journey+🚀" />
 </p>
 
 
