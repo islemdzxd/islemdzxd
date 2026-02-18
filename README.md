@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=600&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Built+Different.;Software+Engineering+Mindset.;AI+Driven.+Frontend+Focused.;Connected+Systems.+Smart+Future.;Discipline+%3D+Results." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=500&color=00FF00&background=00000000&center=true&vCenter=true&width=1000&lines=booting+islem.sys...;initializing+modules...;loading+AI.engine;connecting+IoT.network;frontend.layer+%3A+ready;system+status+%3A+ONLINE" />
 </p>
+
 
 
 
