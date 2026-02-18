@@ -79,8 +79,8 @@ Driven by discipline. Focused on growth. 🚀
 
 ## 🌍 Connect With Me
 
-- 📧 your-email@gmail.com  
-- 💼 LinkedIn: your-linkedin  
+- 📧 islemchettouf@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/chettouf-islem-2922a933b/
 
 ---
 
