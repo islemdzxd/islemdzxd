@@ -53,7 +53,7 @@ Driven by discipline. Focused on growth. 🚀
 
 ### 📱 Mobile
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=reactnative" />
   <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
