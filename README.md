@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0A66C2&center=true&vCenter=true&width=900&lines=Frontend-Oriented+Full-Stack+Developer;AI+Engineering+Enthusiast;IoT+Explorer;Building+Smart+Interactive+Systems" />
 </p>
 
-# # 👋 Islem | Software Engineering Student
+# # 👋 hey I'm Islem | Software Engineering Student
 
 💻 Frontend Architect & Full-Stack Developer  
 🤖 AI Systems & Machine Learning Enthusiast  
