@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=1100&lines=I+Don't+Just+Code...;I+Engineer+Intelligent+Systems;AI+%7C+Frontend+%7C+IoT;Future+Software+Engineer;Watch+The+Journey+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2000&pause=600&color=8A2BE2&center=true&vCenter=true&width=1100&lines=Built+Different.;Software+Engineering+Mindset.;AI+Driven.+Frontend+Focused.;Connected+Systems.+Smart+Future.;Discipline+%3D+Results." />
 </p>
+
 
 
 
