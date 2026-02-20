@@ -59,7 +59,7 @@ Driven by discipline. Focused on growth. 🚀
 
 ### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,cursor" />
 </p>
 
 ---
